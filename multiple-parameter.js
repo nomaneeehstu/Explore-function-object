@@ -9,7 +9,7 @@ return total;
 var firstNumber = 34;
 var secondNumber = 23;
 var result = addNumbers(firstNumber, secondNumber);
-// console.log('REsult value :',result);
+console.log('REsult value :',result);
 
 
 // MULTIPLY TWO NUMBWERS
@@ -20,7 +20,7 @@ return result;
 }
 
 var total = multiplyTwoNumbers(5, 100);
-//console.log(total);
+console.log(total);
 
 //Substraction two numbwrs
 
